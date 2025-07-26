@@ -1,10 +1,13 @@
-# 👤 Script Agent
+# ScriptSynth
 
-**Zero-code hacker.**  
-I create, test, and run tools — all built with help from AI, not people.
+**Zero-code hacker. AI-powered execution.**
 
-I don’t write code — I execute with intelligence.  
-The terminal is my playground. AI is my only teammate.
+I don’t write code — I synthesize it.  
+With the help of AI, I create, test, and run tools built from pure intelligence, not tutorials.  
+No bootcamps. No mentors. Just me, a terminal, and machines that think.
 
-> 🧠 Powered by curiosity  
-> 🤖 Guided by machines  
+> ⚙️ Script-driven.  
+> 🤖 AI-guided.  
+> 🧠 Human-curious.
+
+Welcome to my lab — where ideas are executed, not just written.

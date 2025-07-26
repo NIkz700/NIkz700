@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @NIkz700
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👤 Script Agent
 
-<!---
-NIkz700/NIkz700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Zero-code hacker.**  
+I create, test, and run tools — all built with help from AI, not people.
+
+I don’t write code — I execute with intelligence.  
+The terminal is my playground. AI is my only teammate.
+
+> 🧠 Powered by curiosity  
+> 🤖 Guided by machines  
